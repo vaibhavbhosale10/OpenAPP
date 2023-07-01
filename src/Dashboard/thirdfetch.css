@@ -1,0 +1,27 @@
+.parent {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.childone {
+  display: flex;
+  width: 480px;
+  height: 256px;
+  justify-content: center;
+  align-items: center;
+  background-color: #f5f5f5;
+  border-radius: 20px;
+  margin-top: 10%;
+  margin-left: 5%;
+}
+.childtwo {
+  display: flex;
+  width: 480px;
+  height: 256px;
+  justify-content: center;
+  align-items: center;
+  background-color: #f5f5f5;
+  border-radius: 20px;
+  margin-top: 10%;
+  margin-left: 15%;
+}

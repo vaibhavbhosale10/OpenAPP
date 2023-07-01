@@ -1,0 +1,29 @@
+.main {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.block {
+  width: 221.05262756347656px;
+  height: 120px;
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#first {
+  background-color: #ddefe0;
+  border-radius: 20px;
+}
+#second {
+  background-color: #f4ecdd;
+  border-radius: 20px;
+}
+#third {
+  background-color: #efdada;
+  border-radius: 20px;
+}
+#fourth {
+  background-color: #dee0ef;
+  border-radius: 20px;
+}
